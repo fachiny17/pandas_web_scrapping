@@ -1,3 +1,3 @@
 # Web Scrapping Using Pandas
 
-Exercise of web srapping using pandas.
+Exercise on web srapping using pandas.
